@@ -2,5 +2,5 @@
 
 
 ## 参考文献
-1. 《机器学习》
-2. https://zhuanlan.zhihu.com/p/134089340
+1. 《机器学习》-周志华
+2. 最全西瓜书-周志华《机器学习》笔记 https://zhuanlan.zhihu.com/p/134089340
